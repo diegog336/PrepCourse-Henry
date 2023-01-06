@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prubea, modulo 2 del PrepCourse de Henry
+Este es una prueba de como crea un repositorio y clonarlo desde github a mi escritorio local
+
